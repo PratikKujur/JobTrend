@@ -8,7 +8,7 @@
   ],
   "env": {
     "API_BASE": {
-      "description": "Base URL for the API (e.g., https://your-api.onrender.com)",
+      "description": " https://jobtrend.onrender.com",
       "value": "https://jobtrend-api.onrender.com"
     }
   }
