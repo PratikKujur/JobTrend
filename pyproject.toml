@@ -1,0 +1,19 @@
+[project]
+name = "jobtrend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "fastapi>=0.109.0",
+    "pandas>=2.1.0",
+    "plotly>=5.18.0",
+    "python-dateutil>=2.8.2",
+    "requests>=2.31.0",
+    "selenium>=4.15.0",
+    "streamlit>=1.30.0",
+    "tqdm>=4.66.0",
+    "uvicorn>=0.25.0",
+    "webdriver-manager>=4.0.1",
+]
