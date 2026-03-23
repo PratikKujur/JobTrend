@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from typing import List, Dict
 
 
-API_BASE = "http://localhost:8000"
+API_BASE = "https://jobtrend.onrender.com"
 
 
 @st.cache_data(ttl=300)
