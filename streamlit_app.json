@@ -1,0 +1,15 @@
+{
+  "name": "Job Market Intelligence Dashboard",
+  "requirements": [
+    "streamlit>=1.30.0",
+    "requests>=2.31.0",
+    "pandas>=2.1.0",
+    "plotly>=5.18.0"
+  ],
+  "env": {
+    "API_BASE": {
+      "description": "Base URL for the API (e.g., https://your-api.onrender.com)",
+      "value": "https://jobtrend-api.onrender.com"
+    }
+  }
+}
